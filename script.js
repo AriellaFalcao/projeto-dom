@@ -120,6 +120,10 @@
     lista.appendChild(tarefa);
 
 
+
+    
+
+
     input.value = " "; // limpar o input
 
 
